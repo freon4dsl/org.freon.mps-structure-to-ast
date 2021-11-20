@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/org.projectit.mps.structure.to.ast/org.projectit.mps.structure.to.ast.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/org.projectit.test/org.projectit.test.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/org.projectit.mps.structure.to.ast.example/org.projectit.mps.structure.to.ast.example.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

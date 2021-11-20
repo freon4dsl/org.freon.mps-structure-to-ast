@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectLibraryManager">
+    <option name="libraries">
+      <map>
+        <entry key="BaseTemplates">
+          <value>
+            <Library>
+              <option name="name" value="BaseTemplates" />
+              <option name="path" value="$PROJECT_DIR$/../lib/BaseTemplates" />
+            </Library>
+          </value>
+        </entry>
+        <entry key="mps-to-json-exporter">
+          <value>
+            <Library>
+              <option name="name" value="mps-to-json-exporter" />
+              <option name="path" value="$PROJECT_DIR$/../lib/mps-to-json-exporter" />
+            </Library>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
