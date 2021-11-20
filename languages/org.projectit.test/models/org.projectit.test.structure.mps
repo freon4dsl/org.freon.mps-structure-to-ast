@@ -172,7 +172,7 @@
     <node concept="1TJgyj" id="24U7M0hoWgu" role="1TKVEi">
       <property role="IQ2ns" value="2394260374492005406" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="rigth" />
+      <property role="20kJfa" value="right" />
       <property role="20lbJX" value="fLJekj4/_1" />
       <ref role="20lvS9" node="24U7M0hoWgo" resolve="Expression" />
     </node>
