@@ -1,6 +1,9 @@
-/languages/org.projectit.test/generator/classes_gen/
-/languages/org.projectit.test/generator/source_gen/
-/languages/org.projectit.test/generator/source_gen/caches/
-/languages/org.projectit.mps.structure.to.ast/generator/source_gen/
-/languages/org.projectit.mps.structure.to.ast/generator/classes_gen/
-/languages/org.projectit.mps.structure.to.ast/generator/source_gen.caches/
+source_gen/
+classes_gen/
+source_gen.caches/
+build/
+.gradle/
+.idea/
+*.iml
+build.xml
+
