@@ -62,11 +62,6 @@
     <property role="TrG5h" value="RootConcept" />
     <property role="19KtqR" value="true" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="1TJgyi" id="xWChU2ZmAH" role="1TKVEl">
-      <property role="IQ2nx" value="611540801834281389" />
-      <property role="TrG5h" value="name" />
-      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
-    </node>
     <node concept="1TJgyj" id="24U7M0h9T81" role="1TKVEi">
       <property role="IQ2ns" value="2394260374488060417" />
       <property role="20kJfa" value="ref" />
@@ -84,6 +79,9 @@
       <property role="20kJfa" value="mock2" />
       <property role="20lbJX" value="fLJekj6/_1__n" />
       <ref role="20lvS9" node="24U7M0h9T7F" resolve="MockInterface" />
+    </node>
+    <node concept="PrWs8" id="xWChU33Rny" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
   </node>
   <node concept="25R3W" id="24U7M0h9T7y">
