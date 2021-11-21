@@ -29,6 +29,12 @@
   <node concept="K7oV1" id="xWChU33XkC">
     <property role="TrG5h" value="root name" />
     <ref role="K7oOx" node="xWChU33XkF" resolve="mock 42" />
+    <node concept="K7oVc" id="xWChU36iaK" role="K7oVu">
+      <property role="TrG5h" value="NMock" />
+      <property role="K7oVf" value="24U7M0h9T7B/NoMockAtAll" />
+      <property role="K2Zc4" value="123" />
+      <property role="K2Zc8" value="dwdfwq" />
+    </node>
     <node concept="K7oVc" id="xWChU33XkF" role="K7oVu">
       <property role="TrG5h" value="mock 42" />
       <property role="K7oVf" value="24U7M0h9T7$/Mock_42" />

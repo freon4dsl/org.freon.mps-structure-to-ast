@@ -17,6 +17,7 @@
   <languageVersions>
     <language slang="l:ceab5195-25ea-4f22-9b92-103b95ca8c0c:jetbrains.mps.lang.core" version="2" />
     <language slang="l:d8b2cf09-7c1e-4868-952a-24e9f1bfd33f:org.projectit.mps.structure.to.ast" version="0" />
+    <language slang="l:7ca85847-4ece-41cd-b2de-8836f8f971cd:org.projectit.test" version="0" />
   </languageVersions>
   <dependencyVersions>
     <module reference="3f233e7f-b8a6-46d2-a57f-795d56775243(Annotations)" version="0" />
