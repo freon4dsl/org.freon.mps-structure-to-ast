@@ -17,6 +17,7 @@ Converter from MPS to ProjectIt language metamodel
 - binary expressions must have a `right` and `left` in ProjectIt.
 - name property of a model unit must be public
   - Solved by making all name properties public
+- Comma too much after `implements` interfaces
   
 ProjectIt Limitations
 - ModelUnit cannot have a base concept or implement interfaces
