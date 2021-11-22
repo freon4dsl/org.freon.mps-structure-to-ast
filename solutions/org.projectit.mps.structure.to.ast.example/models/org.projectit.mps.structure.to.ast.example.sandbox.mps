@@ -9,7 +9,9 @@
   </imports>
   <registry>
     <language id="d8b2cf09-7c1e-4868-952a-24e9f1bfd33f" name="org.projectit.mps.structure.to.ast">
+      <concept id="4857795437452979004" name="org.projectit.mps.structure.to.ast.structure.Named" flags="ng" index="NzV0a" />
       <concept id="2672293368154933136" name="org.projectit.mps.structure.to.ast.structure.MetamodelToProjectitAst" flags="ng" index="3l_2cS">
+        <child id="2779097068145251595" name="ignoredProperties" index="1Gsc4" />
         <child id="2394260374491919650" name="binaryExpressionBase" index="Km6C2" />
         <child id="2394260374491919644" name="expressionBase" index="Km6CW" />
         <child id="2672293368154933137" name="completeLanguages" index="3l_2cT" />
@@ -41,6 +43,12 @@
     </node>
     <node concept="3l_FUl" id="24U7M0hx4Fw" role="Km6C2">
       <ref role="3l_FUm" to="gsfa:24U7M0hoWgp" resolve="BinaryExpression" />
+    </node>
+    <node concept="NzV0a" id="1sWMF9TzVRc" role="1Gsc4">
+      <property role="TrG5h" value="shortDescription" />
+    </node>
+    <node concept="NzV0a" id="1sWMF9TzVRe" role="1Gsc4">
+      <property role="TrG5h" value="virtualPackage" />
     </node>
   </node>
 </model>
