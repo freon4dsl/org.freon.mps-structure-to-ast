@@ -18,6 +18,7 @@ Converter from MPS to ProjectIt language metamodel
 - name property of a model unit must be public
   - Solved by making all name properties public
 - Comma too much after `base` in an  interface definition
+  - solved
   
 ProjectIt Limitations
 - ModelUnit cannot have a base concept or implement interfaces
