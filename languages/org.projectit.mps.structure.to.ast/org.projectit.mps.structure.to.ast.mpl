@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<language namespace="org.projectit.mps.structure.to.ast" uuid="d8b2cf09-7c1e-4868-952a-24e9f1bfd33f" languageVersion="0" moduleVersion="1">
+<language namespace="org.projectit.mps.structure.to.ast" uuid="d8b2cf09-7c1e-4868-952a-24e9f1bfd33f" languageVersion="0" moduleVersion="3">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />
@@ -49,7 +49,7 @@
         <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />
         <module reference="ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)" version="0" />
         <module reference="9e98f4e2-decf-4e97-bf80-9109e8b759aa(jetbrains.mps.lang.feedback.context)" version="0" />
-        <module reference="d8b2cf09-7c1e-4868-952a-24e9f1bfd33f(org.projectit.mps.structure.to.ast)" version="1" />
+        <module reference="d8b2cf09-7c1e-4868-952a-24e9f1bfd33f(org.projectit.mps.structure.to.ast)" version="3" />
         <module reference="81cf92b4-142f-41c8-b144-1ed449c51868(org.projectit.mps.structure.to.ast.generator)" version="0" />
       </dependencyVersions>
       <mapping-priorities />
@@ -127,7 +127,7 @@
     <module reference="c72da2b9-7cce-4447-8389-f407dc1158b7(jetbrains.mps.lang.structure)" version="0" />
     <module reference="9ded098b-ad6a-4657-bfd9-48636cfe8bc3(jetbrains.mps.lang.traceable)" version="0" />
     <module reference="d9e6c08a-a7b1-4ef6-8c54-57d93e9e0ce0(jetbrains.mps.tool.common)" version="0" />
-    <module reference="d8b2cf09-7c1e-4868-952a-24e9f1bfd33f(org.projectit.mps.structure.to.ast)" version="1" />
+    <module reference="d8b2cf09-7c1e-4868-952a-24e9f1bfd33f(org.projectit.mps.structure.to.ast)" version="3" />
   </dependencyVersions>
   <extendedLanguages />
 </language>
