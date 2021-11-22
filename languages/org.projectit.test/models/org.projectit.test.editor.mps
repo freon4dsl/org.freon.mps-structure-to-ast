@@ -137,7 +137,7 @@
           <property role="3F0ifm" value="integer property60:" />
         </node>
         <node concept="3F0A7n" id="xWChU33FWg" role="3EZMnx">
-          <ref role="1NtTu8" to="gsfa:24U7M0hcuK$" resolve="property60" />
+          <ref role="1NtTu8" to="gsfa:24U7M0hcuK$" resolve="_property60" />
         </node>
         <node concept="2iRfu4" id="xWChU33FWh" role="2iSdaV" />
       </node>
@@ -157,7 +157,7 @@
           <property role="3F0ifm" value="datatype property90:" />
         </node>
         <node concept="3F0A7n" id="xWChU33FY6" role="3EZMnx">
-          <ref role="1NtTu8" to="gsfa:24U7M0hp3c6" resolve="property90" />
+          <ref role="1NtTu8" to="gsfa:24U7M0hp3c6" resolve="_property90" />
         </node>
         <node concept="2iRfu4" id="xWChU33FY7" role="2iSdaV" />
       </node>

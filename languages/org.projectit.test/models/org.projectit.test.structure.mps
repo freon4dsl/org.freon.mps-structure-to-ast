@@ -121,7 +121,7 @@
     </node>
     <node concept="1TJgyi" id="24U7M0hcuK$" role="1TKVEl">
       <property role="IQ2nx" value="2394260374488738852" />
-      <property role="TrG5h" value="property60" />
+      <property role="TrG5h" value="_property60" />
       <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
     </node>
     <node concept="1TJgyi" id="24U7M0hcuKC" role="1TKVEl">
@@ -131,7 +131,7 @@
     </node>
     <node concept="1TJgyi" id="24U7M0hp3c6" role="1TKVEl">
       <property role="IQ2nx" value="2394260374492033798" />
-      <property role="TrG5h" value="property90" />
+      <property role="TrG5h" value="_property90" />
       <ref role="AX2Wp" node="24U7M0hp3c5" resolve="APatternString" />
     </node>
     <node concept="1TJgyi" id="24U7M0hp4yY" role="1TKVEl">
@@ -148,7 +148,7 @@
   </node>
   <node concept="1TIwiD" id="24U7M0haMeo">
     <property role="EcuMT" value="2394260374488294296" />
-    <property role="TrG5h" value="ConceptWithNameProp" />
+    <property role="TrG5h" value="_ConceptWithNameProp" />
     <property role="R4oN_" value="SOME DESCRIPTION HERE" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyi" id="24U7M0haMep" role="1TKVEl">
