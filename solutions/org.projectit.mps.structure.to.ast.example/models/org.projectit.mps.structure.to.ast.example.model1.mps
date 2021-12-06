@@ -17,12 +17,11 @@
         <child id="2394260374488060412" name="mock" index="K7oVs" />
         <child id="2394260374488060414" name="mock2" index="K7oVu" />
       </concept>
-      <concept id="2394260374488060395" name="org.projectit.test.structure.MockInterface" flags="ng" index="K7oVb" />
       <concept id="2394260374488060396" name="org.projectit.test.structure.MockConcept" flags="ng" index="K7oVc">
-        <property id="2394260374488738852" name="property60" index="K2Zc4" />
+        <property id="2394260374488738852" name="_property60" index="K2Zc4" />
         <property id="2394260374488738856" name="property80" index="K2Zc8" />
         <property id="2394260374488060399" name="property20" index="K7oVf" />
-        <property id="2394260374492033798" name="property90" index="KnyKA" />
+        <property id="2394260374492033798" name="_property90" index="KnyKA" />
       </concept>
     </language>
   </registry>
@@ -49,10 +48,6 @@
       <property role="K2Zc8" value="string" />
       <property role="KnyKA" value="67" />
     </node>
-  </node>
-  <node concept="K7oV1" id="xWChU34xlq">
-    <property role="TrG5h" value="Another one" />
-    <node concept="K7oVb" id="xWChU34xlr" role="K7oVu" />
   </node>
 </model>
 

@@ -25,7 +25,6 @@
     <module reference="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea(MPS.Core)" version="0" />
     <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />
     <module reference="ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)" version="0" />
-    <module reference="9e98f4e2-decf-4e97-bf80-9109e8b759aa(jetbrains.mps.lang.feedback.context)" version="0" />
     <module reference="0f08ed6c-e898-4ede-ae1b-09190a2a6fc5(org.projectit.mps.structure.to.ast.example)" version="0" />
     <module reference="7ca85847-4ece-41cd-b2de-8836f8f971cd(org.projectit.test)" version="0" />
   </dependencyVersions>
