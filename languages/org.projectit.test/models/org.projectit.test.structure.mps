@@ -66,19 +66,19 @@
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="24U7M0h9T81" role="1TKVEi">
       <property role="IQ2ns" value="2394260374488060417" />
-      <property role="20kJfa" value="ref" />
+      <property role="20kJfa" value="mockRef" />
       <ref role="20lvS9" node="24U7M0h9T7G" resolve="MockConcept" />
     </node>
     <node concept="1TJgyj" id="24U7M0h9T7W" role="1TKVEi">
       <property role="IQ2ns" value="2394260374488060412" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="mock" />
+      <property role="20kJfa" value="mockConcept" />
       <ref role="20lvS9" node="24U7M0h9T7G" resolve="MockConcept" />
     </node>
     <node concept="1TJgyj" id="24U7M0h9T7Y" role="1TKVEi">
       <property role="IQ2ns" value="2394260374488060414" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
-      <property role="20kJfa" value="mock2" />
+      <property role="20kJfa" value="mockInterface" />
       <property role="20lbJX" value="fLJekj6/_1__n" />
       <ref role="20lvS9" node="24U7M0h9T7F" resolve="MockInterface" />
     </node>
@@ -116,50 +116,29 @@
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyi" id="24U7M0h9T7J" role="1TKVEl">
       <property role="IQ2nx" value="2394260374488060399" />
-      <property role="TrG5h" value="property20" />
+      <property role="TrG5h" value="enumProperty" />
       <ref role="AX2Wp" node="24U7M0h9T7y" resolve="EnumMock" />
     </node>
     <node concept="1TJgyi" id="24U7M0h9T7L" role="1TKVEl">
       <property role="IQ2nx" value="2394260374488060401" />
-      <property role="TrG5h" value="property40" />
+      <property role="TrG5h" value="booleanProperty" />
       <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
     </node>
     <node concept="1TJgyi" id="24U7M0hcuK$" role="1TKVEl">
       <property role="IQ2nx" value="2394260374488738852" />
-      <property role="TrG5h" value="_property60" />
+      <property role="TrG5h" value="integerProperty" />
       <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
     </node>
     <node concept="1TJgyi" id="24U7M0hcuKC" role="1TKVEl">
       <property role="IQ2nx" value="2394260374488738856" />
-      <property role="TrG5h" value="property80" />
+      <property role="TrG5h" value="stringProperty" />
       <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
-    </node>
-    <node concept="1TJgyi" id="24U7M0hp3c6" role="1TKVEl">
-      <property role="IQ2nx" value="2394260374492033798" />
-      <property role="TrG5h" value="_property90" />
-      <ref role="AX2Wp" node="24U7M0hp3c5" resolve="APatternString" />
-    </node>
-    <node concept="1TJgyi" id="24U7M0hp4yY" role="1TKVEl">
-      <property role="IQ2nx" value="2394260374492039358" />
-      <property role="TrG5h" value="property101" />
-      <ref role="AX2Wp" node="24U7M0hp4yX" resolve="MyOwnPrimitive" />
     </node>
     <node concept="PrWs8" id="24U7M0h9T7H" role="PzmwI">
       <ref role="PrY4T" node="24U7M0h9T7F" resolve="MockInterface" />
     </node>
     <node concept="PrWs8" id="xWChU2Wx4N" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
-    </node>
-  </node>
-  <node concept="1TIwiD" id="24U7M0haMeo">
-    <property role="EcuMT" value="2394260374488294296" />
-    <property role="TrG5h" value="_ConceptWithNameProp" />
-    <property role="R4oN_" value="SOME DESCRIPTION HERE" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="1TJgyi" id="24U7M0haMep" role="1TKVEl">
-      <property role="IQ2nx" value="2394260374488294297" />
-      <property role="TrG5h" value="name" />
-      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
     </node>
   </node>
   <node concept="1TIwiD" id="24U7M0hoWgo">

@@ -33,7 +33,7 @@
     </language>
   </registry>
   <node concept="3l_2cS" id="4xec9lqGU1X">
-    <property role="TrG5h" value="ExportedMetaModel" />
+    <property role="TrG5h" value="TestLanguage" />
     <node concept="2V$Bhx" id="24U7M0h9TrP" role="3l_2cT">
       <property role="2V$B1T" value="7ca85847-4ece-41cd-b2de-8836f8f971cd" />
       <property role="2V$B1Q" value="org.projectit.test" />

@@ -870,7 +870,7 @@
       <node concept="3Tm6S6" id="6njK04dKwke" role="1B3o_S" />
       <node concept="17QB3L" id="6njK04dKwkf" role="1tU5fm" />
       <node concept="Xl_RD" id="6njK04dKza$" role="33vP2m">
-        <property role="Xl_RC" value="/Users/jos/projects/projectit/ProjectIt/packages/playground/src/mps/defs/" />
+        <property role="Xl_RC" value="/Users/jos/projects/projectit/ProjectIt-mps/packages/playground/src/mps/defs/" />
       </node>
     </node>
     <node concept="2tJIrI" id="6njK04dKt1c" role="jymVt" />
